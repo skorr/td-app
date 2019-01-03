@@ -2,16 +2,12 @@
 
 [![Build Status](https://travis-ci.org/skorr/testdriven-app.svg?branch=master)](https://travis-ci.org/skorr/testdriven-app)
 
-    Be sure to replace skorr with your actual GitHub username.
 
-In terms of workflow, for now, while the project structure is still somewhat simple, we'll:
+Workflow:
 
     Code a new feature locally
     Commit and push code
     Ensure tests pass on Travis
-
-
-
 
 
 Course Preview:
@@ -26,9 +22,4 @@ Course Preview:
     • React and Docker
     • Next Steps
     • Structure
-
-
-Purchase:
-
-
 
